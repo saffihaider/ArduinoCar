@@ -5,3 +5,7 @@ I created a Bluetooth-controlled car, based on an Arduino Uno development board 
 I initially used regular DC motors, however, they didn't provide enough torque to drive the car. Thus, I switched to geared motors with a 1:48 gear ratio. Unfortunately, due to COVID, I did not have access to a 3D printer. Thus, the chassis was primarily made of cardboard. 
 
 In the future, I plan to order motors with higher RPM and less torque so that the car can drive faster.
+
+---
+
+Try it out yourself! I've included a Fritzing schematic of the circuit. The motor shield I used is the Adafruit Motor Shield V1. 
