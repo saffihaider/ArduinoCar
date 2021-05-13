@@ -9,3 +9,9 @@ In the future, I plan to order motors with higher RPM and less torque so that th
 ---
 
 Try it out yourself! I've included a Fritzing schematic of the circuit. The motor shield I used is the Adafruit Motor Shield V1. 
+
+---
+
+Car Picture:
+
+![image](https://user-images.githubusercontent.com/65430797/118201041-982f6f80-b424-11eb-98e1-f8ae0d731833.png)
